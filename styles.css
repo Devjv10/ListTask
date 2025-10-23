@@ -123,3 +123,9 @@ img {
         height: 20px;
     }
 }
+
+@media (max-width: 768px) {
+  .task img {
+    opacity: 1 !important;
+  }
+}
